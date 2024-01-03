@@ -1,0 +1,1982 @@
+<TaskerData sr="" dvi="1" tv="5.14.6">
+	<Profile sr="prof10" ve="2">
+		<cdate>1575244594546</cdate>
+		<edate>1639299134829</edate>
+		<flags>2</flags>
+		<id>10</id>
+		<mid0>11</mid0>
+		<Time sr="con0">
+			<fh>-1</fh>
+			<fm>-1</fm>
+			<rep>2</rep>
+			<repval>5</repval>
+			<th>-1</th>
+			<tm>-1</tm>
+		</Time>
+	</Profile>
+	<Profile sr="prof12" ve="2">
+		<cdate>1605644031833</cdate>
+		<edate>1613181837529</edate>
+		<flags>10</flags>
+		<id>12</id>
+		<limit>true</limit>
+		<mid0>13</mid0>
+		<Event sr="con0" ve="2">
+			<code>41628340</code>
+			<pri>0</pri>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Contains>false</Contains>
+					<Contains-type>java.lang.Boolean</Contains-type>
+					<LastCommandIdInvert>false</LastCommandIdInvert>
+					<LastCommandIdInvert-type>java.lang.Boolean</LastCommandIdInvert-type>
+					<LastCommandIdRegex>false</LastCommandIdRegex>
+					<LastCommandIdRegex-type>java.lang.Boolean</LastCommandIdRegex-type>
+					<NotCancelSearchGoogleNow>false</NotCancelSearchGoogleNow>
+					<NotCancelSearchGoogleNow-type>java.lang.Boolean</NotCancelSearchGoogleNow-type>
+					<NotOnContinuous>false</NotOnContinuous>
+					<NotOnContinuous-type>java.lang.Boolean</NotOnContinuous-type>
+					<NotOnNormal>false</NotOnNormal>
+					<NotOnNormal-type>java.lang.Boolean</NotOnNormal-type>
+					<Precision>&lt;null&gt;</Precision>
+					<Precision-type>java.lang.String</Precision-type>
+					<ProfileName>&lt;null&gt;</ProfileName>
+					<ProfileName-type>java.lang.String</ProfileName-type>
+					<Responses>&lt;null&gt;</Responses>
+					<Responses-type>java.lang.String</Responses-type>
+					<Source>&lt;null&gt;</Source>
+					<Source-type>java.lang.String</Source-type>
+					<Substitutions>&lt;null&gt;</Substitutions>
+					<Substitutions-type>java.lang.String</Substitutions-type>
+					<TriggerWord>&lt;null&gt;</TriggerWord>
+					<TriggerWord-type>java.lang.String</TriggerWord-type>
+					<TriggerWordExact>false</TriggerWordExact>
+					<TriggerWordExact-type>java.lang.Boolean</TriggerWordExact-type>
+					<TriggerWordRegex>false</TriggerWordRegex>
+					<TriggerWordRegex-type>java.lang.Boolean</TriggerWordRegex-type>
+					<VariableNames>&lt;null&gt;</VariableNames>
+					<VariableNames-type>java.lang.String</VariableNames-type>
+					<VariableValues>&lt;null&gt;</VariableValues>
+					<VariableValues-type>java.lang.String</VariableValues-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Command: "what's poppin"</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<config_easy_commands>&lt;null&gt;</config_easy_commands>
+					<config_easy_commands-type>java.lang.String</config_easy_commands-type>
+					<configcommand>what's Poppin</configcommand>
+					<configcommand-type>java.lang.String</configcommand-type>
+					<configcommandid>&lt;null&gt;</configcommandid>
+					<configcommandid-type>java.lang.String</configcommandid-type>
+					<configcommandinvert>false</configcommandinvert>
+					<configcommandinvert-type>java.lang.Boolean</configcommandinvert-type>
+					<configexactsub>false</configexactsub>
+					<configexactsub-type>java.lang.Boolean</configexactsub-type>
+					<configlastcommand>&lt;null&gt;</configlastcommand>
+					<configlastcommand-type>java.lang.String</configlastcommand-type>
+					<configregexsub>false</configregexsub>
+					<configregexsub-type>java.lang.Boolean</configregexsub-type>
+					<net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED>true</net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED>
+					<net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED-type>java.lang.Boolean</net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED-type>
+					<net.dinglisch.android.tasker.extras.REQUESTED_TIMEOUT>0</net.dinglisch.android.tasker.extras.REQUESTED_TIMEOUT>
+					<net.dinglisch.android.tasker.extras.REQUESTED_TIMEOUT-type>java.lang.Integer</net.dinglisch.android.tasker.extras.REQUESTED_TIMEOUT-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>configcommand plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>530e3150-3e7f-4a35-855f-ac7c6608ac8e</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autovoice.intent.IntentReceiveVoiceEvent</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autovoice</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autovoice.activity.ActivityConfigReceiveVoiceEvent</Str>
+			<Int sr="arg3"/>
+		</Event>
+	</Profile>
+	<Profile sr="prof16" ve="2">
+		<cdate>1584449298879</cdate>
+		<edate>1639432019131</edate>
+		<flags>10</flags>
+		<id>16</id>
+		<mid0>33</mid0>
+		<Time sr="con0">
+			<fh>9</fh>
+			<fm>30</fm>
+			<th>16</th>
+			<tm>29</tm>
+		</Time>
+	</Profile>
+	<Profile sr="prof2" ve="2">
+		<cdate>1575140028860</cdate>
+		<edate>1639290443607</edate>
+		<flags>2</flags>
+		<id>2</id>
+		<mid0>3</mid0>
+		<State sr="con0" ve="2">
+			<code>160</code>
+			<Str sr="arg0" ve="3"/>
+			<Str sr="arg1" ve="3"/>
+			<Str sr="arg2" ve="3"/>
+			<Int sr="arg3" val="2"/>
+		</State>
+	</Profile>
+	<Profile sr="prof20" ve="2">
+		<cdate>1612070175561</cdate>
+		<edate>1624082526594</edate>
+		<flags>10</flags>
+		<id>20</id>
+		<limit>true</limit>
+		<mid0>25</mid0>
+		<Event sr="con0" ve="2">
+			<code>411</code>
+			<pri>0</pri>
+		</Event>
+	</Profile>
+	<Profile sr="prof21" ve="2">
+		<cdate>1584449387823</cdate>
+		<edate>1640296023719</edate>
+		<flags>10</flags>
+		<id>21</id>
+		<mid0>39</mid0>
+		<Time sr="con0">
+			<fh>16</fh>
+			<fm>30</fm>
+			<th>9</th>
+			<tm>29</tm>
+		</Time>
+	</Profile>
+	<Profile sr="prof29" ve="2">
+		<cdate>1584218085862</cdate>
+		<edate>1639290171261</edate>
+		<flags>10</flags>
+		<id>29</id>
+		<mid0>18</mid0>
+		<mid1>22</mid1>
+		<State sr="con0" ve="2">
+			<code>186</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">low_power</Str>
+			<Str sr="arg2" ve="3">1</Str>
+		</State>
+	</Profile>
+	<Profile sr="prof57" ve="2">
+		<cdate>1623118890128</cdate>
+		<edate>1365346138558</edate>
+		<flags>3</flags>
+		<id>57</id>
+		<mid0>35</mid0>
+		<nme>myUIMODE=normal</nme>
+		<State sr="con0" ve="2">
+			<code>142</code>
+			<pin>true</pin>
+			<Str sr="arg0" ve="3">myUIMODE=car/myUIMODE=desk</Str>
+		</State>
+		<State sr="con1" ve="2">
+			<code>10</code>
+			<pin>true</pin>
+			<Int sr="arg0" val="0"/>
+		</State>
+	</Profile>
+	<Profile sr="prof58" ve="2">
+		<cdate>1623118890129</cdate>
+		<edate>1640146464998</edate>
+		<flags>18</flags>
+		<id>58</id>
+		<limit>true</limit>
+		<mid0>48</mid0>
+		<nme>myUIMODE=UIMODE</nme>
+		<Event sr="con0" ve="2">
+			<code>3050</code>
+			<pri>0</pri>
+			<Str sr="arg0" ve="3">%UIMODE</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2"/>
+		</Event>
+	</Profile>
+	<Profile sr="prof59" ve="2">
+		<cdate>1623118890132</cdate>
+		<edate>1366553409373</edate>
+		<flags>19</flags>
+		<id>59</id>
+		<mid0>47</mid0>
+		<mid1>49</mid1>
+		<nme>myUSER=present (in call)</nme>
+		<State sr="con0" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myUIMODE</lhs>
+					<op>0</op>
+					<rhs>normal</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+		<State sr="con1" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myDISPLAY</lhs>
+					<op>1</op>
+					<rhs>unlocked</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+		<State sr="con2" ve="2">
+			<code>40</code>
+			<Int sr="arg0" val="2"/>
+			<Str sr="arg1" ve="3"/>
+		</State>
+	</Profile>
+	<Profile sr="prof6" ve="2">
+		<cdate>1575140857287</cdate>
+		<edate>1639284526398</edate>
+		<flags>2</flags>
+		<id>6</id>
+		<limit>true</limit>
+		<mid0>7</mid0>
+		<Time sr="con0">
+			<fh>22</fh>
+			<fm>30</fm>
+			<th>23</th>
+			<tm>0</tm>
+		</Time>
+	</Profile>
+	<Profile sr="prof60" ve="2">
+		<cdate>1623118890133</cdate>
+		<edate>1365094687268</edate>
+		<flags>2</flags>
+		<id>60</id>
+		<mid0>38</mid0>
+		<nme>myPOWER=ac</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0" val="1"/>
+		</State>
+	</Profile>
+	<Profile sr="prof61" ve="2">
+		<cdate>1623118890134</cdate>
+		<edate>1365094693233</edate>
+		<flags>2</flags>
+		<id>61</id>
+		<mid0>45</mid0>
+		<nme>myPOWER=usb</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0" val="2"/>
+		</State>
+	</Profile>
+	<Profile sr="prof62" ve="2">
+		<cdate>1623118890135</cdate>
+		<edate>1366817818987</edate>
+		<flags>19</flags>
+		<id>62</id>
+		<mid0>44</mid0>
+		<mid1>54</mid1>
+		<nme>myTRUSTEDWIFI</nme>
+		<State sr="con0" ve="2">
+			<code>160</code>
+			<Str sr="arg0" ve="3">promisedlan*/z6hb7/w3wq2/1ae2bb/85qy2</Str>
+			<Str sr="arg1" ve="3"/>
+			<Str sr="arg2" ve="3"/>
+			<Int sr="arg3"/>
+		</State>
+	</Profile>
+	<Profile sr="prof63" ve="2">
+		<cdate>1623118890136</cdate>
+		<edate>1364250576403</edate>
+		<flags>18</flags>
+		<id>63</id>
+		<mid0>53</mid0>
+		<nme>myPHONE=ringing</nme>
+		<Event sr="con0" ve="2">
+			<code>6</code>
+			<Str sr="arg0" ve="3"/>
+		</Event>
+	</Profile>
+	<Profile sr="prof64" ve="2">
+		<cdate>1623118890138</cdate>
+		<edate>1365094698236</edate>
+		<flags>2</flags>
+		<id>64</id>
+		<mid0>51</mid0>
+		<nme>myPOWER=wireless</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0" val="3"/>
+		</State>
+	</Profile>
+	<Profile sr="prof65" ve="2">
+		<cdate>1623118890139</cdate>
+		<edate>1365888030873</edate>
+		<flags>19</flags>
+		<id>65</id>
+		<mid0>34</mid0>
+		<nme>myUSER=present (display)</nme>
+		<State sr="con0" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myUIMODE</lhs>
+					<op>0</op>
+					<rhs>normal</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+		<State sr="con1" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myDISPLAY</lhs>
+					<op>0</op>
+					<rhs>unlocked</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+	</Profile>
+	<Profile sr="prof66" ve="2">
+		<cdate>1623118890140</cdate>
+		<edate>1364250563023</edate>
+		<flags>18</flags>
+		<id>66</id>
+		<mid0>31</mid0>
+		<nme>myPHONE=offhook</nme>
+		<Event sr="con0" ve="2">
+			<code>2</code>
+		</Event>
+	</Profile>
+	<Profile sr="prof67" ve="2">
+		<cdate>1623118890141</cdate>
+		<edate>1364250544053</edate>
+		<flags>18</flags>
+		<id>67</id>
+		<mid0>37</mid0>
+		<nme>myPHONE=idle</nme>
+		<Event sr="con0" ve="2">
+			<code>4</code>
+		</Event>
+	</Profile>
+	<Profile sr="prof68" ve="2">
+		<cdate>1623118890142</cdate>
+		<edate>1365435736208</edate>
+		<flags>19</flags>
+		<id>68</id>
+		<mid0>46</mid0>
+		<nme>myUIMODE=car</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0"/>
+		</State>
+		<State sr="con1" ve="2">
+			<code>120</code>
+			<Int sr="arg0" val="2"/>
+		</State>
+		<State sr="con2" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myDISPLAY</lhs>
+					<op>0</op>
+					<rhs>unlocked</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+	</Profile>
+	<Profile sr="prof69" ve="2">
+		<cdate>1623118890143</cdate>
+		<edate>1625194352608</edate>
+		<flags>27</flags>
+		<id>69</id>
+		<limit>true</limit>
+		<mid0>42</mid0>
+		<nme>Initialize myVARS</nme>
+		<pri>10</pri>
+		<State sr="con0" ve="2">
+			<code>123</code>
+			<Int sr="arg0" val="1"/>
+		</State>
+	</Profile>
+	<Profile sr="prof70" ve="2">
+		<cdate>1623118890144</cdate>
+		<edate>1364780776430</edate>
+		<flags>19</flags>
+		<id>70</id>
+		<mid0>52</mid0>
+		<nme>myUIMODE=desk</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0" val="0"/>
+		</State>
+		<State sr="con1" ve="2">
+			<code>120</code>
+			<Int sr="arg0" val="4"/>
+		</State>
+		<State sr="con2" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myDISPLAY</lhs>
+					<op>0</op>
+					<rhs>unlocked</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+	</Profile>
+	<Profile sr="prof71" ve="2">
+		<cdate>1623118890145</cdate>
+		<edate>1365098652603</edate>
+		<flags>3</flags>
+		<id>71</id>
+		<mid0>41</mid0>
+		<nme>myPOWER=none</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<pin>true</pin>
+			<Int sr="arg0" val="0"/>
+		</State>
+	</Profile>
+	<Profile sr="prof72" ve="2">
+		<cdate>1623118890146</cdate>
+		<edate>1365098668430</edate>
+		<flags>3</flags>
+		<id>72</id>
+		<mid0>55</mid0>
+		<nme>myUSER=absent</nme>
+		<State sr="con0" ve="2">
+			<code>142</code>
+			<pin>true</pin>
+			<Str sr="arg0" ve="3">myUSER=present*</Str>
+		</State>
+	</Profile>
+	<Profile sr="prof73" ve="2">
+		<cdate>1623118890148</cdate>
+		<edate>1366819593494</edate>
+		<flags>2</flags>
+		<id>73</id>
+		<mid0>43</mid0>
+		<nme>myDISPLAY=off</nme>
+		<Event sr="con0" ve="2">
+			<code>210</code>
+		</Event>
+	</Profile>
+	<Profile sr="prof74" ve="2">
+		<cdate>1623118890149</cdate>
+		<edate>1366819599918</edate>
+		<flags>2</flags>
+		<id>74</id>
+		<mid0>50</mid0>
+		<nme>myDISPLAY=on</nme>
+		<pri>6</pri>
+		<Event sr="con0" ve="2">
+			<code>208</code>
+		</Event>
+	</Profile>
+	<Profile sr="prof75" ve="2">
+		<cdate>1623118890150</cdate>
+		<edate>1366819607566</edate>
+		<flags>2</flags>
+		<id>75</id>
+		<mid0>56</mid0>
+		<nme>myDISPLAY=unlocked</nme>
+		<Event sr="con0" ve="2">
+			<code>1000</code>
+		</Event>
+	</Profile>
+	<Profile sr="prof8" ve="2">
+		<cdate>1612147501218</cdate>
+		<edate>1640296224561</edate>
+		<flags>8</flags>
+		<id>8</id>
+		<mid0>9</mid0>
+		<mid1>28</mid1>
+		<State sr="con0" ve="2">
+			<code>140</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="35"/>
+		</State>
+		<State sr="con1" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myPOWER</lhs>
+					<op>2</op>
+					<rhs>none</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+	</Profile>
+	<Project sr="proj0" ve="2">
+		<cdate>1575140014429</cdate>
+		<mdate>1640146732375</mdate>
+		<name>Base</name>
+		<pids>2,6,10,29,12,20,8</pids>
+		<tids>18,22,19,23,26,24,17,27,13,30,25,9,28,32,40</tids>
+		<Img sr="icon" ve="2">
+			<nme>mw_action_home</nme>
+		</Img>
+	</Project>
+	<Project sr="proj1" ve="2">
+		<cdate>1568734147082</cdate>
+		<mdate>1584449387823</mdate>
+		<name>Dark Mode</name>
+		<pids>16,21</pids>
+		<tids>33,36,39</tids>
+		<Share sr="Share">
+			<b>false</b>
+			<d>&lt;h4&gt;This project will give you multiple ways of automatically or semi-automatically toggle the dark mode on your Android 10 device.&lt;/h4&gt;
+	&lt;div&gt;Check out the demo video here: &lt;a href="https://www.youtube.com/watch?v=DpEIBgGLFNA" target="_null"&gt;https://youtu.be/DpEIBgGLFNA&lt;/a&gt;.&lt;/div&gt;
+	&lt;h3&gt;IMPORTANT: You need Tasker 5.8.4 for this to work. Sign up for the beta &lt;a href="https://play.google.com/apps/testing/net.dinglisch.android.taskerm"&gt;here&lt;/a&gt; if needed.&lt;/h3&gt;</d>
+			<p>false</p>
+			<t>Setup Dark Mode Project</t>
+		</Share>
+	</Project>
+	<Project sr="proj2" ve="2">
+		<cdate>1330314242429</cdate>
+		<mdate>1623118890150</mdate>
+		<name>My States</name>
+		<pids>57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75</pids>
+		<psort>Alpha</psort>
+		<Img sr="icon" ve="2">
+			<nme>hd_aaa_ext_contrast</nme>
+		</Img>
+	</Project>
+	<Project sr="proj3" ve="2">
+		<cdate>1640146608660</cdate>
+		<mdate>1640146613387</mdate>
+		<name>orientation</name>
+		<tids>14</tids>
+	</Project>
+	<Task sr="task11">
+		<cdate>1575244597293</cdate>
+		<edate>1639299134829</edate>
+		<id>11</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>294</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>425</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>123</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">settings put secure sysui_rounded_size 10</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>123</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">settings put secure sysui_rounded_size 0</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>433</code>
+			<Int sr="arg0" val="1"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%WIFII</lhs>
+					<op>3</op>
+					<rhs>*CONNECTION*</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task13">
+		<cdate>1603366391324</cdate>
+		<edate>1605644517517</edate>
+		<id>13</id>
+		<nme>Assistant</nme>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>559</code>
+			<Str sr="arg0" ve="3">this phone's yours</Str>
+			<Str sr="arg1" ve="3">com.google.android.tts:eng-gbr</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="7"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>904</code>
+		</Action>
+	</Task>
+	<Task sr="task14">
+		<cdate>1580058823335</cdate>
+		<edate>1640147024248</edate>
+		<id>14</id>
+		<nme>Rotate</nme>
+		<pri>100</pri>
+		<Share sr="Share">
+			<b>false</b>
+			<d>Little task that will allow you to check the current screen orientation value on demand.
+
+Orientations:
+- 0° (portrait)
+- 90° (landscape right)
+- 180° (upside down)
+- 270° (landscape left)
+
+Notes:
+- The 180° rotation position may be locked by your ROM if not custom when using auto-rotation feature. So, try using Tasker to force that rotation angle or install a compatible custom ROM.</d>
+			<p>false</p>
+			<t></t>
+		</Share>
+		<Action sr="act0" ve="7">
+			<code>300</code>
+			<label>&lt;b&gt;getOrientation()&lt;/b&gt;: Alternative, but deprecated method, which is actually called from the newer one 'getRotation()'.&lt;br&gt;
+(both should output same values)</label>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>664</code>
+			<Str sr="arg0" ve="3">(WindowManager) wm</Str>
+			<Str sr="arg1" ve="3">CONTEXT</Str>
+			<Str sr="arg2" ve="3">getSystemService
+{Object} (String)</Str>
+			<Str sr="arg3" ve="3">window</Str>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Str sr="arg8" ve="3"/>
+			<Str sr="arg9" ve="3"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>664</code>
+			<Str sr="arg0" ve="3">display</Str>
+			<Str sr="arg1" ve="3">wm</Str>
+			<Str sr="arg2" ve="3">getDefaultDisplay
+{Display} ()</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Str sr="arg8" ve="3"/>
+			<Str sr="arg9" ve="3"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>664</code>
+			<Str sr="arg0" ve="3">%value</Str>
+			<Str sr="arg1" ve="3">display</Str>
+			<Str sr="arg2" ve="3">getRotation
+{int} ()</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Str sr="arg8" ve="3"/>
+			<Str sr="arg9" ve="3"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>664</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%value</Str>
+			<Str sr="arg1" ve="3">display</Str>
+			<Str sr="arg2" ve="3">getOrientation
+{int} ()</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Str sr="arg8" ve="3"/>
+			<Str sr="arg9" ve="3"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>318</code>
+			<Int sr="arg0" val="2"/>
+			<Int sr="arg1" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%value</lhs>
+					<op>2</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>318</code>
+			<Int sr="arg0" val="1"/>
+			<Int sr="arg1" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%value</lhs>
+					<op>2</op>
+					<rhs>2</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act7" ve="7">
+			<code>318</code>
+			<Int sr="arg0" val="4"/>
+			<Int sr="arg1" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%value</lhs>
+					<op>2</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act8" ve="7">
+			<code>318</code>
+			<Int sr="arg0" val="3"/>
+			<Int sr="arg1" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%value</lhs>
+					<op>2</op>
+					<rhs>3</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task17">
+		<cdate>1597725352225</cdate>
+		<edate>1597725482387</edate>
+		<id>17</id>
+		<nme>close adb wifi</nme>
+		<Action sr="act0" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">setprop service.adb.tcp.port -1</Str>
+			<Int sr="arg1" val="5"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">stop adbd</Str>
+			<Int sr="arg1" val="5"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">start adbd</Str>
+			<Int sr="arg1" val="5"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task18">
+		<cdate>1579941707397</cdate>
+		<edate>1639290171261</edate>
+		<id>18</id>
+		<nme>mute</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>177</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>1813902406</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>75%</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<pattern>5</pattern>
+					<pattern-type>java.lang.Integer</pattern-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">screen.dimmer.pixelfilter</Str>
+			<Str sr="arg2" ve="3">screen.dimmer.pixelfilter.TaskerActivity</Str>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task19">
+		<cdate>1580070109478</cdate>
+		<edate>1580070150272</edate>
+		<id>19</id>
+		<nme>send sms</nme>
+		<Action sr="act0" ve="7">
+			<code>41</code>
+			<Str sr="arg0" ve="3">+15145708982</Str>
+			<Str sr="arg1" ve="3">Dont forget to pay for school!</Str>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task22">
+		<cdate>1579941867212</cdate>
+		<edate>1623118500821</edate>
+		<id>22</id>
+		<nme>unmute</nme>
+		<Action sr="act0" ve="7">
+			<code>177</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>1813902406</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Turn off Pixel Filter</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<pattern>12</pattern>
+					<pattern-type>java.lang.Integer</pattern-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">screen.dimmer.pixelfilter</Str>
+			<Str sr="arg2" ve="3">screen.dimmer.pixelfilter.TaskerActivity</Str>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task23">
+		<cdate>1581949627960</cdate>
+		<edate>1581949635529</edate>
+		<id>23</id>
+		<nme>airplane</nme>
+		<Action sr="act0" ve="7">
+			<code>333</code>
+			<Int sr="arg0" val="1"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+		</Action>
+	</Task>
+	<Task sr="task24">
+		<cdate>1591980262357</cdate>
+		<edate>1597725502594</edate>
+		<id>24</id>
+		<nme>brightness</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%boot_bright</Str>
+			<Str sr="arg1" ve="3">%BRIGHT</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="3"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>810</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>810</code>
+			<Int sr="arg0">
+				<var>%boot_bright</var>
+			</Int>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>231</code>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">setprop service.adb.tcp.port 5555</Str>
+			<Int sr="arg1" val="5"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">stop adbd</Str>
+			<Int sr="arg1" val="5"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">start adbd</Str>
+			<Int sr="arg1" val="5"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task25">
+		<cdate>1612070462850</cdate>
+		<edate>1624082526594</edate>
+		<id>25</id>
+		<nme>phone_boot</nme>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>30</code>
+			<on>false</on>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="30"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">settings put secure sysui_rounded_size 10</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">settings put secure sysui_rounded_size 0</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>123</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">lightsctl BACKLIGHT 00808080</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>523</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">brightness</Str>
+			<Str sr="arg1" ve="3">brithtnessss</Str>
+			<Str sr="arg10" ve="3"/>
+			<Str sr="arg11" ve="3"/>
+			<Img sr="arg2" ve="2">
+				<nme>hd_aaa_ext_bulb</nme>
+			</Img>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="3"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<Str sr="arg9" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task26">
+		<cdate>1581949676608</cdate>
+		<edate>1581984949994</edate>
+		<id>26</id>
+		<nme>airplane_off</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="5"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>333</code>
+			<Int sr="arg0" val="0"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>333</code>
+			<Int sr="arg0" val="1"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>333</code>
+			<Int sr="arg0" val="0"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+		</Action>
+	</Task>
+	<Task sr="task27">
+		<cdate>1600367289863</cdate>
+		<edate>1600367414539</edate>
+		<id>27</id>
+		<nme>send_sms_doritos</nme>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>41</code>
+			<Str sr="arg0" ve="3">+15145708982</Str>
+			<Str sr="arg1" ve="3">dowitos sweet chili heat with cheddaw sauce uwu</Str>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task28">
+		<cdate>1612147623335</cdate>
+		<edate>1640296224561</edate>
+		<id>28</id>
+		<nme>battery saver off</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>235</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">low_power</Str>
+			<Str sr="arg2" ve="3">0</Str>
+			<Int sr="arg3" val="1"/>
+			<Str sr="arg4" ve="3"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%NIGHT</lhs>
+					<op>2</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>361</code>
+			<Int sr="arg0" val="1"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>43</code>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>361</code>
+			<Int sr="arg0" val="0"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>38</code>
+		</Action>
+	</Task>
+	<Task sr="task3">
+		<cdate>1575140041426</cdate>
+		<edate>1639290443607</edate>
+		<id>3</id>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>433</code>
+			<Int sr="arg0" val="0"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+		</Action>
+	</Task>
+	<Task sr="task30">
+		<cdate>1605643188312</cdate>
+		<edate>1640146326371</edate>
+		<id>30</id>
+		<nme>splitscreen</nme>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>244</code>
+		</Action>
+	</Task>
+	<Task sr="task31">
+		<cdate>1330314242731</cdate>
+		<edate>1339264088178</edate>
+		<id>31</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myPHONE</Str>
+			<Str sr="arg1" ve="3">offhook</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task32">
+		<cdate>1613845338207</cdate>
+		<edate>1613846780174</edate>
+		<id>32</id>
+		<nme>Bunny On</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>904</code>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Turn on bunny</Str>
+			<Str sr="arg1" ve="3">default:default</Str>
+			<Int sr="arg2" val="4"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task33">
+		<cdate>1568734748083</cdate>
+		<edate>1639432019131</edate>
+		<id>33</id>
+		<nme>Dark Mode Off</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>109</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">/storage/1C7F-111B/tasker_wallpaper/day.png</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>123</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">settings put secure sysui_rounded_size 10</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>123</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">settings put secure sysui_rounded_size 0</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>361</code>
+			<Int sr="arg0" val="0"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%NIGHT</lhs>
+					<op>3</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>mw_image_wb_incandescent</nme>
+		</Img>
+	</Task>
+	<Task sr="task34">
+		<cdate>1364255922120</cdate>
+		<edate>1364255945537</edate>
+		<id>34</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUSER</Str>
+			<Str sr="arg1" ve="3">present</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task35">
+		<cdate>1364242764731</cdate>
+		<edate>1364256151211</edate>
+		<id>35</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUIMODE</Str>
+			<Str sr="arg1" ve="3">normal</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task36">
+		<cdate>1568735191185</cdate>
+		<edate>1579308855252</edate>
+		<id>36</id>
+		<nme>Update Sunrise Sunset</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>902</code>
+			<Int sr="arg0" val="1"/>
+			<Int sr="arg1" val="100"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%location</Str>
+			<Str sr="arg1" ve="3">%LOCN</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="3"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+		<Action sr="act10" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Sunset</Str>
+			<Str sr="arg1" ve="3">%sunset</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="3"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>590</code>
+			<Str sr="arg0" ve="3">%location</Str>
+			<Str sr="arg1" ve="3">,</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%coords</Str>
+			<Str sr="arg1" ve="3">&amp;lat=%location(1)&amp;lng=%location(2)</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="3"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>339</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%http_data
+Data
+Data that the server responded from the HTTP request.&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%http_response_code
+Response Code
+The HTTP Code the server responded&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%http_headers()
+Response Headers
+The HTTP Headers the server sent in the response. Each header is in the 'key:value' format&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;%http_response_length
+Response Length
+The size of the response in bytes&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg10" val="0"/>
+			<Int sr="arg11" val="0"/>
+			<Int sr="arg12" val="0"/>
+			<Str sr="arg2" ve="3">http://api.timezonedb.com/v2.1/get-time-zone?format=json&amp;key=XESEIQW6QH9G&amp;by=position%coords</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="30"/>
+			<Int sr="arg9" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%timezonedata</Str>
+			<Str sr="arg1" ve="3">%http_data</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="3"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>339</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%http_data
+Data
+Data that the server responded from the HTTP request.&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%http_response_code
+Response Code
+The HTTP Code the server responded&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%http_headers()
+Response Headers
+The HTTP Headers the server sent in the response. Each header is in the 'key:value' format&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;%http_response_length
+Response Length
+The size of the response in bytes&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg10" val="0"/>
+			<Int sr="arg11" val="0"/>
+			<Int sr="arg12" val="0"/>
+			<Str sr="arg2" ve="3">https://api.sunrise-sunset.org/json?formatted=0%coords</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="30"/>
+			<Int sr="arg9" val="0"/>
+		</Action>
+		<Action sr="act7" ve="7">
+			<code>129</code>
+			<Str sr="arg0" ve="3">const timeZoneJson = JSON.parse(timezonedata);
+const offsetHours = timeZoneJson.gmtOffset / 3600;
+const json = JSON.parse(http_data);
+const getTime = raw =&gt; {
+	var result = raw.split("T")[1].substring(0,5);
+	if(offsetHours == 0) return result;
+
+	const split = result.split(":");
+	var hours = parseFloat(split[0]);
+	const minutes = split[1];
+	hours = hours + offsetHours;
+	if(hours &lt; 0){
+		hours += 24;
+	}else if(hours&gt;=24){
+		hours -= 24;
+	}
+	hours = `0${hours}`.slice(-2);
+	return `${hours}:${minutes}`;
+}
+var sunrise = getTime(json.results.sunrise);
+var sunset = getTime(json.results.sunset);</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="45"/>
+		</Action>
+		<Action sr="act8" ve="7">
+			<code>548</code>
+			<Str sr="arg0" ve="3">Sunset at %sunset
+Sunrise at %sunrise</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act9" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Sunrise</Str>
+			<Str sr="arg1" ve="3">%sunrise</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="3"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>mw_image_wb_sunny</nme>
+		</Img>
+	</Task>
+	<Task sr="task37">
+		<cdate>1330314242729</cdate>
+		<edate>1339264077401</edate>
+		<id>37</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myPHONE</Str>
+			<Str sr="arg1" ve="3">idle</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task38">
+		<cdate>1362623875045</cdate>
+		<edate>1362623903910</edate>
+		<id>38</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myPOWER</Str>
+			<Str sr="arg1" ve="3">ac</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task39">
+		<cdate>1568734748083</cdate>
+		<edate>1640296023719</edate>
+		<id>39</id>
+		<nme>Dark Mode On</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>109</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">/storage/1C7F-111B/tasker_wallpaper/night.jpg</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>123</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">settings put secure sysui_rounded_size 10</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>123</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">settings put secure sysui_rounded_size 0</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>361</code>
+			<Int sr="arg0" val="1"/>
+			<Bundle sr="arg1">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%new_state
+New State
+true if it after the action the setting is enabled, false if not&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%NIGHT</lhs>
+					<op>3</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>mw_image_wb_iridescent</nme>
+		</Img>
+	</Task>
+	<Task sr="task40">
+		<cdate>1613846230675</cdate>
+		<edate>1613846362810</edate>
+		<id>40</id>
+		<nme>Bunny Off</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>904</code>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Turn off bunny</Str>
+			<Str sr="arg1" ve="3">default:default</Str>
+			<Int sr="arg2" val="4"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task41">
+		<cdate>1365094642456</cdate>
+		<edate>1365094666521</edate>
+		<id>41</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myPOWER</Str>
+			<Str sr="arg1" ve="3">none</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task42">
+		<cdate>1364654848192</cdate>
+		<edate>1625194351919</edate>
+		<id>42</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUIMODE</Str>
+			<Str sr="arg1" ve="3">normal</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myUIMODE</lhs>
+					<op>13</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myDISPLAY</Str>
+			<Str sr="arg1" ve="3">unlocked</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myDISPLAY</lhs>
+					<op>13</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myPHONE</Str>
+			<Str sr="arg1" ve="3">idle</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myPHONE</lhs>
+					<op>13</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myPOWER</Str>
+			<Str sr="arg1" ve="3">none</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myPOWER</lhs>
+					<op>13</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUSER</Str>
+			<Str sr="arg1" ve="3">present</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myUSER</lhs>
+					<op>13</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myTRUSTEDWIFI</Str>
+			<Str sr="arg1" ve="3">false</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myTRUSTEDWIFI</lhs>
+					<op>13</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>159</code>
+			<Str sr="arg0" ve="3">Initialize myVARS</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task43">
+		<cdate>1364240676598</cdate>
+		<edate>1366819593494</edate>
+		<id>43</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myDISPLAY</Str>
+			<Str sr="arg1" ve="3">off</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task44">
+		<cdate>1339950700457</cdate>
+		<edate>1365094845483</edate>
+		<id>44</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myTRUSTEDWIFI</Str>
+			<Str sr="arg1" ve="3">true</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task45">
+		<cdate>1362624038315</cdate>
+		<edate>1362624058050</edate>
+		<id>45</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myPOWER</Str>
+			<Str sr="arg1" ve="3">usb</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task46">
+		<cdate>1330314242696</cdate>
+		<edate>1364242454382</edate>
+		<id>46</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUIMODE</Str>
+			<Str sr="arg1" ve="3">car</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myUIMODE</lhs>
+					<op>2</op>
+					<rhs>normal</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task47">
+		<cdate>1364255922120</cdate>
+		<edate>1364350546169</edate>
+		<id>47</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUSER</Str>
+			<Str sr="arg1" ve="3">present</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task48">
+		<cdate>1349830649914</cdate>
+		<edate>1364250390201</edate>
+		<id>48</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUIMODE</Str>
+			<Str sr="arg1" ve="3">%UIMODE</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task49">
+		<cdate>1364255955464</cdate>
+		<edate>1364383679229</edate>
+		<id>49</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUSER</Str>
+			<Str sr="arg1" ve="3">absent</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task50">
+		<cdate>1364240755344</cdate>
+		<edate>1366819599918</edate>
+		<id>50</id>
+		<pri>7</pri>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myDISPLAY</Str>
+			<Str sr="arg1" ve="3">on</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task51">
+		<cdate>1362624153379</cdate>
+		<edate>1362624178908</edate>
+		<id>51</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myPOWER</Str>
+			<Str sr="arg1" ve="3">wireless</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task52">
+		<cdate>1330314242714</cdate>
+		<edate>1364190023398</edate>
+		<id>52</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUIMODE</Str>
+			<Str sr="arg1" ve="3">desk</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%myUIMODE</lhs>
+					<op>2</op>
+					<rhs>normal</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task53">
+		<cdate>1330314242462</cdate>
+		<edate>1339264097450</edate>
+		<id>53</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myPHONE</Str>
+			<Str sr="arg1" ve="3">ringing</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task54">
+		<cdate>1364352319254</cdate>
+		<edate>1365735337458</edate>
+		<id>54</id>
+		<Action sr="act0" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myTRUSTEDWIFI</Str>
+			<Str sr="arg1" ve="3">false</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%PACTIVE</lhs>
+					<op>5</op>
+					<rhs>,myTRUSTEDWIFI,</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task55">
+		<cdate>1365095346662</cdate>
+		<edate>1365095380108</edate>
+		<id>55</id>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myUSER</Str>
+			<Str sr="arg1" ve="3">absent</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task56">
+		<cdate>1364240818861</cdate>
+		<edate>1366819607566</edate>
+		<id>56</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%myDISPLAY</Str>
+			<Str sr="arg1" ve="3">unlocked</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+			<Int sr="arg6" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task7">
+		<cdate>1575140859522</cdate>
+		<edate>1613181810811</edate>
+		<id>7</id>
+		<Action sr="act0" ve="7">
+			<code>41</code>
+			<Str sr="arg0" ve="3">+15145708982</Str>
+			<Str sr="arg1" ve="3">Order: Eliminate child</Str>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%ROAM</lhs>
+					<op>2</op>
+					<rhs>off</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task9">
+		<cdate>1612147522575</cdate>
+		<edate>1639290173629</edate>
+		<id>9</id>
+		<nme>battery saver</nme>
+		<Action sr="act0" ve="7">
+			<code>235</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">low_power</Str>
+			<Str sr="arg2" ve="3">1</Str>
+			<Int sr="arg3" val="1"/>
+			<Str sr="arg4" ve="3"/>
+		</Action>
+	</Task>
+</TaskerData>
